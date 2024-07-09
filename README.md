@@ -15,25 +15,5 @@
   
    ng serve
 
-## Directory Structure
 
-    src/
-|-- app/
-|   |-- contact-list/
-|   |   |-- contact-list.component.html
-|   |   |-- contact-list.component.ts
-|   |-- contact-form/
-|   |   |-- contact-form.component.html
-|   |   |-- contact-form.component.ts
-|   |-- contact.model.ts
-|   |-- contact.service.ts
-|   |-- contact-state.service.ts
-|   |-- app-routing.module.ts
-|   |-- app.module.ts
-|   |-- app.component.html
-|   |-- app.component.ts
-|-- assets/
-|-- environments/
-|-- styles.css
-|-- index.html
 
